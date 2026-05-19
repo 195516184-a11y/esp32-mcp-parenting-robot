@@ -1,0 +1,22 @@
+固件烧录成功后，通电开机，机器人会进入配网提示：
+固件芯片采用小智的方案，所以配网跟小智ESP 方案一致
+
+手机WIFI 搜索，xiaozhi xxx 开头的信号，点击链接后，自动弹出配置WIFI，选择你家里WIFI 信号的账户，并输入密码，即配网成功
+
+手机浏览器，或者微信，输入网址：https://wowing.love/
+（微信可点击收藏网页，下次方便打开，浏览器可选择添加到手机桌面，变成网页版APP）
+
+首次登陆选择注册，填写正确的国家的确区号，填入正确手机，设置六位密码
+
+登陆成功就即可开启机器人的控制台。
+
+
+
+After successful firmware flashing, power on the device. The robot will enter network distribution prompt mode.
+This firmware adopts the Xiaozhi chip solution, so its network pairing operation is exactly the same as the standard Xiaozhi ESP solution.
+Search for Wi-Fi signals starting with xiaozhi xxx on your mobile phone. Connect to this hotspot, and the Wi-Fi configuration page will pop up automatically. Select your home Wi-Fi name and enter the password to finish network pairing.
+Open your mobile browser or WeChat, and visit the URL:
+https://wowing.love/
+You can bookmark the page in WeChat for quick access next time, or add it to your mobile desktop via browser to use it like a standalone APP.
+New users need to register for the first login. Select the correct country area code, enter your valid phone number, and set a 6-digit login password.
+After logging in successfully, you can enter and use the robot intelligent control console.
